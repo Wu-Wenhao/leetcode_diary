@@ -1,2 +1,2 @@
-# leetcode_struggle
+# leetcode
 一个数学系学生的刷题日记
