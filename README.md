@@ -1,3 +1,1 @@
-# leetcode diary
-
-刷题日记
+# 刷题日志
